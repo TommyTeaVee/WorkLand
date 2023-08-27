@@ -1,8 +1,8 @@
-# Welcome to WorkLand
+# Welcome to Qtunetasy
 
 ## About
 
-WorkLand is a metaverse for tech teams. Team members can gather in WorkLand, manage projects, track tasks and get work done. WorkLand also features a break room.
+Qtunetasy s a for tech teams. Team members can gather in Qtunetasy, manage projects, track tasks, and get work done. Qtunetasy land also features a break room.
 
 - [Motivation](#motivation)
 - [Demo](#demo)
@@ -16,12 +16,11 @@ WorkLand is a metaverse for tech teams. Team members can gather in WorkLand, man
 
 ## Motivation
 
-WorkLand is made by three developers, [Johnny](https://github.com/jlabedzki), [Jose](https://github.com/Josebautista10) and [Carrie](https://github.com/cgm42/) as a coding bootcamp demo project. As a remote team, we wanted to create something fun that fosters connectivity and boosts productivity at the same time.  
+WorkLand is made by  Qtune As a remote team, we wanted to create something fun that fosters connectivity and boosts productivity at the same time.  
 
 ## Demo
 
-Deployed on Netlify: [WorkLand](https://workland.netlify.app/).
-Server hosted on Heroku.
+Deployed on Netlify: [Qtune land ](https://qtuneland.3dvisions.xyz/).
 Browser needs to support 3rd party cookies.
 
 ## Features
